@@ -1,0 +1,36 @@
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab6\lab6\obj\Debug\lab6.Dialog.resources
+D:\study\vs\lab6\lab6\bin\Debug\lab6.exe.config
+D:\study\vs\lab6\lab6\bin\Debug\lab6.exe
+D:\study\vs\lab6\lab6\bin\Debug\lab6.pdb
+D:\study\vs\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\study\vs\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+D:\study\vs\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\study\vs\lab6\lab6\obj\Debug\lab6.Dialog.resources
+D:\study\vs\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\study\vs\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\study\vs\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\study\vs\lab6\lab6\obj\Debug\lab6.exe
+D:\study\vs\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.Dialog.resources
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\stanislav\Desktop\vs_labs\lab6\lab6\obj\Debug\lab6.pdb
