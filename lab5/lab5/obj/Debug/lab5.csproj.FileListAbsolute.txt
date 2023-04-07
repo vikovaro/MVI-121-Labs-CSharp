@@ -1,0 +1,22 @@
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\stich\OneDrive\Рабочий стол\vs\lab5\lab5\obj\Debug\lab5.pdb
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\bin\Debug\lab5.exe.config
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\bin\Debug\lab5.exe
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\bin\Debug\lab5.pdb
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.Form1.resources
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.Properties.Resources.resources
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.exe
+C:\Users\stanislav\Desktop\vs_labs\lab5\lab5\obj\Debug\lab5.pdb
